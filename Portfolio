@@ -1,0 +1,56 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Neon_Playz04 Portfolio</title>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #00ffff;
+    }
+    p {
+      color: #aaa;
+    }
+    .links {
+      margin-top: 30px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      align-items: center;
+    }
+    a {
+      text-decoration: none;
+      background-color: #1e1e1e;
+      color: #00ffff;
+      padding: 12px 25px;
+      border-radius: 10px;
+      font-size: 1.1rem;
+      transition: 0.2s ease;
+      width: 250px;
+    }
+    a:hover {
+      background-color: #00ffff;
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+  <h1>Neon_Playz04</h1>
+  <p>Welcome to my portfolio</p>
+  <div class="links">
+    <a href="https://youtube.com/@neon_playz04" target="_blank">YouTube</a>
+    <a href="https://instagram.com/neon_edits04" target="_blank">Instagram (Edits)</a>
+    <a href="https://instagram.com/neonplayz04" target="_blank">Instagram (Main)</a>
+    <a href="https://discord.gg/7vYtHREuet" target="_blank">Discord</a>
+  </div>
+</body>
+</html>
